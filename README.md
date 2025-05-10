@@ -26,11 +26,5 @@ This is a GUI-based Java application developed as part of CSIT121 coursework. It
    java src.Driver
    ```
 
-## 👨‍💻 Contributors
-- Mikaeel Faraz Safdar (Report, Inventory)
-- Mohannad Alkurdi (Classes & UML)
-- Devansh Popat (Classes & UML)
-- Mohammed Salem (Driver & UI)
-
 ## 📄 License
 This project is for educational purposes.
